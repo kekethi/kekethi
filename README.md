@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @kekethi
-- 👀 I’m interested in ler livros
-- 😄 Pronouns: ela dela
+- Hi, I’m @kekethi
+- I’m interested in ler livros
+-  ela dela
 - what do I like to do gosto de observar o ceu
+- entp
 
 
 <!---
